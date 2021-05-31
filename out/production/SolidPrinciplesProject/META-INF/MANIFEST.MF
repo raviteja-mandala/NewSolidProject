@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.zemoso.WithSolid.ExecutableWithSolid
+Class-Path: /home/ravitm/IdeaProjects/SolidPrinciplesProject/out
+
